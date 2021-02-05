@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankamat", "Bankamat\Bankamat.csproj", "{3AB786AE-C9D1-428C-8692-467B5DFA7E3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AB786AE-C9D1-428C-8692-467B5DFA7E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB786AE-C9D1-428C-8692-467B5DFA7E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB786AE-C9D1-428C-8692-467B5DFA7E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB786AE-C9D1-428C-8692-467B5DFA7E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0213DF0-4015-4800-A3AC-004F0A8C0120}
+	EndGlobalSection
+EndGlobal
